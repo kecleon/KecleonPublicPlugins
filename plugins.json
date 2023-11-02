@@ -8,7 +8,7 @@
     "date": "2023-11-02",
     "sha512sum": "FC648F795249089CEF382861463EF436973BB61E936A3884FFFBE5499E7572F3DCCE234429EEFD781F81BABBE54284FAEB685AAF0D73D413AC7B8E1F19234699",
     "version": "0.0.6",
-    "url": "https://github.com/kecleon/KecleonPlugins/blob/master/release/artiohelper-0.0.6.jar?raw=true",
+    "url": "https://github.com/kecleon/KecleonPublicPlugins/blob/master/release/artiohelper-0.0.6.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }]

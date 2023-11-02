@@ -13,9 +13,9 @@ plugins {
     kotlin("jvm") version "1.6.21"
 }
 
-project.extra["GithubUrl"] = "https://github.com/kecleon/KecleonPlugins"
+project.extra["GithubUrl"] = "https://github.com/kecleon/KecleonPublicPlugins"
 project.extra["GithubUserName"] = "kecleon"
-project.extra["GithubRepoName"] = "KecleonPlugins"
+project.extra["GithubRepoName"] = "KecleonPublicPlugins"
 
 apply<BootstrapPlugin>()
 
